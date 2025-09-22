@@ -1,6 +1,6 @@
 # Playwright Zombie Edition - Testes Automatizados 🧟‍♂️
 
-![Capa do Projeto](https'://raw.githubusercontent.com/qaxperience/thumbnails/main/playwright-zombie.png)
+![poster](https://raw.githubusercontent.com/qaxperience/thumbnails/main/playwright-zombie.png)
 
 ## 🤘 Sobre o Projeto
 
