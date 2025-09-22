@@ -1,0 +1,82 @@
+{
+    "create": {
+        "title": "Guerra Mundial Z",
+        "overview": "Um ex-investigador da ONU percorre o mundo tentando impedir uma pandemia que transforma humanos em zumbis.",
+        "company": "Paramount Pictures",
+        "release_year": 2013,
+        "featured": false,
+        "cover": "/images/guerra_mundial_z.png"
+    },
+    "madrugada_dos_mortos": {
+        "title": "Madrugada dos Mortos",
+        "overview": "Sobreviventes de um apocalipse zumbi se refugiam em um shopping center enquanto hordas de mortos-vivos os cercam.",
+        "company": "Universal Pictures",
+        "release_year": 2004,
+        "featured": false,
+        "cover": "/images/madrugada_dos_mortos.png"
+    },
+    "exterminio": {
+        "title": "Extermínio",
+        "overview": "Após a liberação de um vírus altamente contagioso em Londres, poucos sobreviventes lutam contra infectados violentos.",
+        "company": "Fox Searchlight Pictures",
+        "release_year": 2002,
+        "featured": false,
+        "cover": "/images/exterminio.png"
+    },
+    "resident_evil_o_hospede_maldito": {
+        "title": "Resident Evil: O Hóspede Maldito",
+        "overview": "Alice acorda em uma instalação secreta da Umbrella Corporation e descobre que um vírus transformou cientistas em zumbis.",
+        "company": "Screen Gems",
+        "release_year": 2002,
+        "featured": false,
+        "cover": "/images/resident_evil_o_hospede_maldito.png"
+    },
+    "zumbilandia": {
+        "title": "Zumbilândia",
+        "overview": "Um grupo improvável de sobreviventes cruza os Estados Unidos enfrentando zumbis e criando suas próprias regras de sobrevivência.",
+        "company": "Columbia Pictures",
+        "release_year": 2009,
+        "featured": false,
+        "cover": "/images/zumbilandia.png"
+    },
+    "zumbilandia_atire_duas_vezes": {
+        "title": "Zumbilândia: Atire Duas Vezes",
+        "overview": "Dez anos após o primeiro filme, o grupo continua sobrevivendo em meio a novos tipos de zumbis e reencontros inesperados.",
+        "company": "Columbia Pictures",
+        "release_year": 2019,
+        "featured": false,
+        "cover": "/images/zumbilandia_atire_duas_vezes.png"
+    },
+    "a_noite_dos_mortos_vivos": {
+        "title": "A Noite dos Mortos-Vivos",
+        "overview": "Considerado o clássico pioneiro do gênero, mostra um grupo de pessoas presas em uma casa cercada por mortos-vivos.",
+        "company": "Continental Distributing",
+        "release_year": 1968,
+        "featured": false,
+        "cover": "/images/a_noite_dos_mortos_vivos.png"
+    },
+    "train_to_busan": {
+        "title": "Train to Busan",
+        "overview": "Durante uma viagem de trem, passageiros precisam lutar por suas vidas quando um surto zumbi toma conta da Coreia do Sul.",
+        "company": "Next Entertainment World",
+        "release_year": 2016,
+        "featured": false,
+        "cover": "/images/train_to_busan.png"
+    },
+    "meu_namorado_e_um_zumbi": {
+        "title": "Meu Namorado é um Zumbi",
+        "overview": "Um jovem zumbi começa a recuperar sua humanidade após se apaixonar por uma garota humana, mudando o rumo da praga.",
+        "company": "Summit Entertainment",
+        "release_year": 2013,
+        "featured": false,
+        "cover": "/images/meu_namorado_e_um_zumbi.png"
+    },
+    "exterminio_2": {
+        "title": "Extermínio 2",
+        "overview": "Seis meses após o surto original, Londres tenta se reconstruir, mas o vírus Rage ressurge de forma devastadora.",
+        "company": "Fox Atomic",
+        "release_year": 2007,
+        "featured": false,
+        "cover": "/images/exterminio_2.png"
+    }
+}
